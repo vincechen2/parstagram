@@ -25,6 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/XGacmWo.gif)
 
+![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/68205883/136706357-f4c4469c-b609-4f04-bdae-991e414db362.gif)
 
-![](https://i.imgur.com/4OO1ip6.gif)
 
