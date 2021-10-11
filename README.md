@@ -28,3 +28,4 @@ Here's a walkthrough of implemented user stories:
 ![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/68205883/136706357-f4c4469c-b609-4f04-bdae-991e414db362.gif)
 
 
+![ezgif com-gif-maker-7](https://user-images.githubusercontent.com/68205883/136814801-a106e0b4-fe41-4dc9-93a8-3a6c390e1952.gif)
