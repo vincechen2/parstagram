@@ -7,6 +7,7 @@ target 'parstagram' do
   # Pods for Enstagram
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
     inherit! :search_paths
 
 end
