@@ -24,6 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker-9](https://user-images.githubusercontent.com/68205883/137633365-6671e831-d7ec-474c-a1af-3d82f0287a52.gif)
 
+![ezgif com-gif-maker-10](https://user-images.githubusercontent.com/68205883/137809762-4275a735-97bf-4287-b68e-496a62c698ac.gif)
 
 
 # Parstagram - Part I
